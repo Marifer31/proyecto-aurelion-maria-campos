@@ -358,6 +358,7 @@ El programa consultara el archivo "documentación.md" para brindar el usuario la
 - Se documentaron los hallazgos del análisis.
 - Finalmente se planteó el pseudocodigo para la estructura del programa para desarrollarlo en python.
 - Se desarrollo un modelo ML (Machine Learning) para la clasificación de clientes de alto valor.
+- Se desarrollo un tablero enfocado en las necesidades del negocio y el seguimiento de KPIs estratégicos en power bi.
 
 # Pasos
 

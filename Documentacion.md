@@ -400,4 +400,4 @@ El programa consultara el archivo "documentación.md" para brindar el usuario la
  FIN
 
  # Diagrama
- <img src="Diagrama-de-Flujo.png" alt="Diagrama de flujo">
+ <img src="Diagrama_de_Flujo.png" alt="Diagrama de flujo">

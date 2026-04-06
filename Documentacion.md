@@ -398,3 +398,6 @@ El programa consultara el archivo "documentación.md" para brindar el usuario la
  SI selecciona 0 saldrá del menú y se muestra mensaje de despedida
 
  FIN
+
+ # Diagrama
+ <img src="Diagrama-de-Flujo.png" alt="Diagrama de flujo">

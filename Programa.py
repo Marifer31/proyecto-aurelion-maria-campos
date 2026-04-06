@@ -136,8 +136,8 @@ Se realizó un análisis estadístico descriptivo sobre el DataFrame unificado (
  Análisis de Negocio (Agrupaciones):
 
 - Ventas por Categoría:
-    - `Limpieza`: $1,436,281.00 (54.17%)
-    - `Alimentos`: $1,215,136.00 (45.83%)
+    - `Alimentos`: $2,250,841.00  
+    - `Limpieza`: $400,576.00 
 
  La categoría Limpieza lidera las ventas, lo que sugiere priorizar inventario y promociones en este segmento
 

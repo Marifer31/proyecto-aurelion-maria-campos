@@ -52,10 +52,10 @@ proyecto-aurelion-maria-campos
 
 ## Análisis y Modelado
 
-- **Análisis Exploratorio:** Se evalúan distribuciones, outliers, correlaciones y tendencias principales mediante visualizaciones (Matplotlib, seaborn).
+- **Análisis Exploratorio:** Se evalúan distribuciones, outliers, correlaciones y tendencias principales mediante visualizaciones.
 - **Ingeniería de Variables:** Generación de nuevas variables predictoras, agregaciones y transformación de campos.
-- **Modelado Predictivo:** Se implementa un algoritmo de Machine Learning con scikit-learn; típicamente, regresión (regresión lineal/múltiple) o clasificación, según los notebooks.
-- **Evaluación:** Se emplean métricas como Accuracy y RMSE para validar la calidad del modelo.
+- **Modelado Predictivo:** Se implementa un algoritmo de Machine Learning con scikit-learn.
+- **Evaluación:** Se emplean métricas como Accuracy para validar la calidad del modelo.
 > Consulta la documentación interna en `Documentacion.md`
 
 ## 🔄 Fases del Proyecto
@@ -63,7 +63,7 @@ proyecto-aurelion-maria-campos
 ### **✅🐍 Sprint 2 – Analizar datos con Python: programación, manipulación de datos, visualización y primeros pasos con IA generativa.**
 ### **✅🤖 Sprint 3 – Machine Learning: Machine Learning con Python, clasificación de datos.**
 ### **✅📊 Sprint 4 – Power BI: creación de dashboards, reportes interactivos y visualización de datos.**
-En el directorio `Power_BI_Dasboard/` se encuentra el dashboard interactivo desarrollado en Power BI, donde se visualizan los KPIs clave del negocio.
+> En el directorio `Power_BI_Dasboard/` se encuentra el dashboard interactivo desarrollado en Power BI, donde se visualizan los KPIs clave del negocio.
 
 ## 📅 Fecha
 
